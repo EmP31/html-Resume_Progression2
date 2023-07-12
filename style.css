@@ -1,12 +1,7 @@
-<style>
-body, html {
-  height: 100%; 
+body{
+background: linear-gradient(rgba(41,130,118, 1), rgba(41,130,118, 00.2));
+height: 100%;
 }
-.bg {
-  background-image: linear-gradient( rgba(25, 198, 174,1), rgba(25, 198,174,0))
-  height: 100%; 
-}
-</style>
 
 
 
