@@ -1,11 +1,41 @@
-html{
-	background-color: 
-}
-h1{
-    font-family: "Arial Black";
-}
-p{
-	font-family: "Candara";
-    }
-
+		html{ 
+            background-color:#96ceb4
+            } 
+            
+        h1{
+            color:snow;
+            background-color:#618685;
+            border: 2px solid black;
+           padding: 30px;
+		   font-family: "Arial Black";
+           }
+           
+         h3{
+            color:snow;
+            background-color:#618685;
+            background-size: 50%;
+            border: 2px solid black;
+  			            }
+      	#cert{
+             color:snow;
+            background-color:#618685;
+            background-size: 50%;
+            border: 2px solid black
+            }
+        #license{
+            color:snow;
+            background-color:#618685;
+            background-size: 50%;
+            border: 2px solid black
+            }
+        #awards{
+            color:snow;
+            background-color:#618685;
+            background-size: 50%;
+            border: 2px solid black
+            }
+		p{
+			font-family: "Candara";
+   			}
+/*need to edit font for body still*/
 
